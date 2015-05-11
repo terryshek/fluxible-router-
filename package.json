@@ -29,6 +29,8 @@
   "devDependencies": {
     "babel-core": "^5.2.17",
     "babel-loader": "^5.0.0",
+    "gulp": "^3.8.11",
+    "gulp-webpack": "^1.4.0",
     "jsx-loader": "^0.13.2",
     "node-jsx": "^0.13.3",
     "webpack": "^1.9.4"
