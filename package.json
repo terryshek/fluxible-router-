@@ -19,10 +19,18 @@
     "express-state": "^1.2.0",
     "fluxible": "^0.4.1",
     "fluxible-plugin-fetchr": "^0.2.3",
+    "fluxible-plugin-routr": "^0.3.0",
     "fluxible-router": "^0.1.0",
     "react": "0.13.x",
     "react-router": "^0.13.0",
     "serialize-javascript": "^1.0.0",
     "serve-favicon": "^2.1.6"
+  },
+  "devDependencies": {
+    "babel-core": "^5.2.17",
+    "babel-loader": "^5.0.0",
+    "jsx-loader": "^0.13.2",
+    "node-jsx": "^0.13.3",
+    "webpack": "^1.9.4"
   }
 }
